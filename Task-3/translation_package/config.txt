@@ -1,0 +1,7 @@
+text_file=text.txt
+src_lang=uk
+dest_lang=en
+output=file
+num_chars= 246
+num_words=44
+num_sentences=4
